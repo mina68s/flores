@@ -1,0 +1,43 @@
+body{
+    background-color: #d3ffb1;
+    color: #dd44a4;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1{
+    color: #940471;
+}
+
+h3{
+    color: black;
+}
+
+.img1 {
+    width: 400px; /*ancho*/
+    height: 360px; /*altura*/
+    border-style:hidden;
+    border-width: 5px;
+    border-color:aqua;
+    margin-left: 50px;
+    margin-bottom: 80px;
+    margin-top: 30px;
+    padding: auto;
+}
+
+.img2 {
+    width: 400px;
+    height: 360px;
+    border-style: double dashed;
+}
+
+footer {
+    background-color: #940471;
+}
+
+small, a{
+    color: white;
+    margin-bottom: 60px;
+}
+
+
+/*Así se pone un comment*/
